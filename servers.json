@@ -1,17 +1,23 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "DonutSMP",
+		"ip": "donutsmp.net",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
+		"name": "East USPvP",
+		"ip": "east.uspvp.org",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
-		"type": "PC"
+		"name": "Central USPvP",
+		"ip": "uspvp.net",
+	        "type": "PC"
+	},
+	{
+		"name": "West USPvP",
+		"ip": "west.uspvp.net",
+	        "type": "PC"
+		
 	}
 ]
